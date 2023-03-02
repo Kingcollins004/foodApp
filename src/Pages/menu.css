@@ -1,0 +1,141 @@
+.menu {
+  background-color: #003566;
+  color: white;
+  height: 100vh;
+}
+.menu-div {
+  text-align: center;
+  margin: 0px 80px;
+}
+.categories-div {
+  display: flex;
+  margin: 0px 0px 20px 0px;
+}
+.cate1,
+.cate2,
+.cate3,
+.cate4 {
+  flex: 1;
+  margin: 0px 10px 0px 0px;
+  border-radius: 10px;
+}
+.cate1 div {
+  background-color: rgba(0, 0, 0, 0.4);
+  height: 190px;
+  margin-top: -25px;
+  border-radius: 10px;
+}
+.cate1 {
+  background-image: url("../Images/cateImg1.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 190px;
+}
+.cate1 h3 {
+  text-align: left;
+  margin-left: 30px;
+  padding-top: 30px;
+  font-size: 25px;
+}
+.cate1 p {
+  text-align: left;
+  margin-left: 30px;
+  margin-top: -20px;
+}
+.cate1 button {
+  float: right;
+  margin-top: 55px;
+}
+
+.cate2 div {
+  background-color: rgba(0, 0, 0, 0.4);
+  height: 190px;
+  margin-top: -25px;
+  border-radius: 10px;
+}
+.cate2 {
+  background-image: url("../Images/cateImg2.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 190px;
+}
+.cate2 h3 {
+  text-align: left;
+  margin-left: 30px;
+  padding-top: 30px;
+  font-size: 25px;
+}
+.cate2 p {
+  text-align: left;
+  margin-left: 30px;
+  margin-top: -20px;
+}
+.cate2 button {
+  float: right;
+  margin-top: 55px;
+}
+
+.cate3 div {
+  background-color: rgba(0, 0, 0, 0.4);
+  height: 190px;
+  margin-top: -25px;
+  border-radius: 10px;
+}
+.cate3 {
+  background-image: url("../Images/cateImg3.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 190px;
+}
+.cate3 h3 {
+  text-align: left;
+  margin-left: 30px;
+  padding-top: 30px;
+  font-size: 25px;
+}
+.cate3 p {
+  text-align: left;
+  margin-left: 30px;
+  margin-top: -20px;
+}
+.cate3 button {
+  float: right;
+  margin-top: 55px;
+}
+
+.cate4 div {
+  background-color: rgba(0, 0, 0, 0.4);
+  height: 190px;
+  margin-top: -25px;
+  border-radius: 10px;
+}
+.cate4 {
+  background-image: url("../Images/cateImg4.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 190px;
+}
+.cate4 h3 {
+  text-align: left;
+  margin-left: 30px;
+  padding-top: 30px;
+  font-size: 25px;
+}
+.cate4 p {
+  text-align: left;
+  margin-left: 30px;
+  margin-top: -20px;
+}
+.cate4 button {
+  float: right;
+  margin-top: 55px;
+}
+.add {
+  background-color: white;
+  color: #003566;
+  float: right;
+  width: 200px;
+  text-align: center;
+  border-radius: 5px;
+  border: none;
+}
